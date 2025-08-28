@@ -8,6 +8,7 @@ void main() {
   /* ============================= */
   /*
   Format deklarasi variable
+  type_data nama_variable
    */
   /* ============================= */
 
