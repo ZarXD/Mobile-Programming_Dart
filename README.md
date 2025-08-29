@@ -4,10 +4,10 @@ Selamat datang di repo **Belajar Dart**! 🎯
 Repo ini dibuat untuk dokumentasi perjalanan belajar bahasa pemrograman **Dart**, dari dasar hingga lanjut.  
 
 Dart biasanya dipakai buat:
-- 🔹 **Flutter** (membangun aplikasi mobile, web, desktop dengan satu codebase)  
-- 🔹 **Backend** (dengan `dart_frog`, `aqueduct`, atau package lain)  
-- 🔹 **CLI tools**  
-- 🔹 Eksperimen pemrograman modern  
+- **Flutter** (membangun aplikasi mobile, web, desktop dengan satu codebase)  
+- **Backend** (dengan `dart_frog`, `aqueduct`, atau package lain)  
+- **CLI tools**  
+- Eksperimen pemrograman modern  
 
 ---
 
